@@ -35,5 +35,3 @@ def main():
     find_easy(target2, list1)
 
 
-
-main()
